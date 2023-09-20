@@ -1,1 +1,5 @@
 # Personalwebsite
+
+Creative, Artistic, Cinematic
+
+.

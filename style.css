@@ -1,0 +1,51 @@
+/* Apply styles to the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header element */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the navigation links in the header */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Style the project titles in the portfolio */
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style project images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style links in project descriptions */
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+/* Add more CSS rules as needed to style other elements */
