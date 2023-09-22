@@ -1,3 +1,8 @@
 function greetUser() {
-    console.log("Welcome to DRE MEDIA!");
+    alert("Thanks for stopping by!");
 }
+
+
+window.onload = function () {
+    greetUser();
+};
