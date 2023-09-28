@@ -44,7 +44,7 @@ p, ul {
 
 .section-box {
     border: 8px solid #245269; 
-    padding: 15px; 
+    padding: 1%; 
     margin-bottom: 20px; 
 }
 
@@ -53,3 +53,30 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+
+nav a:hover {
+    background-color:#245269; 
+    color: gray;
+}
+
+
+header nav {
+    display: flex;
+    justify-content:space-around
+    
+}
+
+header nav a {
+     color:white;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 647px) {
+    body {
+        background-color:rgb(222, 215, 206); 
+    }
+
+}
+
+
